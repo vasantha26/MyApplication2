@@ -1,0 +1,17 @@
+<resources>
+    <string name="hint_name">ಹೆಸರು</string>
+    <string name="hint_dept">ವಿಭಾಗ</string>
+    <string name="action_add">ಸೇರಿಸು</string>
+    <string name="action_update">ನವೀಕರಿಸು</string>
+    <string name="action_cancel">ರದ್ದುಗೊಳಿಸು</string>
+    <string name="action_edit">ಸಂಪಾದಿಸು</string>
+    <string name="action_delete">ಅಳಿಸು</string>
+    <string name="empty_list">ಇನ್ನೂ ಯಾವುದೇ ಉದ್ಯೋಗಿ ಇಲ್ಲ. ಮೇಲೆ ಒಬ್ಬರನ್ನು ಸೇರಿಸಿ.</string>
+    <string name="error_empty_fields">ಹೆಸರು ಮತ್ತು ವಿಭಾಗ ಕಡ್ಡಾಯ</string>
+    <string name="msg_created">ಉದ್ಯೋಗಿ ಸೇರಿಸಲಾಗಿದೆ</string>
+    <string name="msg_updated">ಉದ್ಯೋಗಿ ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="msg_deleted">ಉದ್ಯೋಗಿ ಅಳಿಸಲಾಗಿದೆ</string>
+    <string name="action_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="action_language">ಭಾಷೆ</string>
+    <string name="language_title">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+</resources>

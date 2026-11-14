@@ -1,0 +1,17 @@
+<resources>
+    <string name="hint_name">പേര്</string>
+    <string name="hint_dept">വകുപ്പ്</string>
+    <string name="action_add">ചേർക്കുക</string>
+    <string name="action_update">പുതുക്കുക</string>
+    <string name="action_cancel">റദ്ദാക്കുക</string>
+    <string name="action_edit">തിരുത്തുക</string>
+    <string name="action_delete">ഇല്ലാതാക്കുക</string>
+    <string name="empty_list">ഇതുവരെ ജീവനക്കാരില്ല. മുകളിൽ ഒരാളെ ചേർക്കുക.</string>
+    <string name="error_empty_fields">പേരും വകുപ്പും നിർബന്ധമാണ്</string>
+    <string name="msg_created">ജീവനക്കാരനെ ചേർത്തു</string>
+    <string name="msg_updated">ജീവനക്കാരനെ പുതുക്കി</string>
+    <string name="msg_deleted">ജീവനക്കാരനെ ഇല്ലാതാക്കി</string>
+    <string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="action_language">ഭാഷ</string>
+    <string name="language_title">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+</resources>

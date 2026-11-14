@@ -1,0 +1,17 @@
+<resources>
+    <string name="hint_name">பெயர்</string>
+    <string name="hint_dept">துறை</string>
+    <string name="action_add">சேர்</string>
+    <string name="action_update">புதுப்பி</string>
+    <string name="action_cancel">ரத்து செய்</string>
+    <string name="action_edit">திருத்து</string>
+    <string name="action_delete">நீக்கு</string>
+    <string name="empty_list">இதுவரை ஊழியர் யாரும் இல்லை. மேலே ஒருவரைச் சேர்க்கவும்.</string>
+    <string name="error_empty_fields">பெயர் மற்றும் துறை அவசியம்</string>
+    <string name="msg_created">ஊழியர் சேர்க்கப்பட்டார்</string>
+    <string name="msg_updated">ஊழியர் புதுப்பிக்கப்பட்டார்</string>
+    <string name="msg_deleted">ஊழியர் நீக்கப்பட்டார்</string>
+    <string name="action_settings">அமைப்புகள்</string>
+    <string name="action_language">மொழி</string>
+    <string name="language_title">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+</resources>

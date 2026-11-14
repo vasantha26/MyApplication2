@@ -1,0 +1,17 @@
+<resources>
+    <string name="hint_name">పేరు</string>
+    <string name="hint_dept">విభాగం</string>
+    <string name="action_add">జోడించు</string>
+    <string name="action_update">నవీకరించు</string>
+    <string name="action_cancel">రద్దు చేయి</string>
+    <string name="action_edit">సవరించు</string>
+    <string name="action_delete">తొలగించు</string>
+    <string name="empty_list">ఇంకా ఉద్యోగులు ఎవరూ లేరు. పైన ఒకరిని జోడించండి.</string>
+    <string name="error_empty_fields">పేరు మరియు విభాగం తప్పనిసరి</string>
+    <string name="msg_created">ఉద్యోగి జోడించబడ్డారు</string>
+    <string name="msg_updated">ఉద్యోగి నవీకరించబడ్డారు</string>
+    <string name="msg_deleted">ఉద్యోగి తొలగించబడ్డారు</string>
+    <string name="action_settings">సెట్టింగ్‌లు</string>
+    <string name="action_language">భాష</string>
+    <string name="language_title">భాషను ఎంచుకోండి</string>
+</resources>

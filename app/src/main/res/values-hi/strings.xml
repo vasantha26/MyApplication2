@@ -1,0 +1,17 @@
+<resources>
+    <string name="hint_name">नाम</string>
+    <string name="hint_dept">विभाग</string>
+    <string name="action_add">जोड़ें</string>
+    <string name="action_update">अपडेट करें</string>
+    <string name="action_cancel">रद्द करें</string>
+    <string name="action_edit">संपादित करें</string>
+    <string name="action_delete">हटाएं</string>
+    <string name="empty_list">अभी तक कोई कर्मचारी नहीं। ऊपर एक जोड़ें।</string>
+    <string name="error_empty_fields">नाम और विभाग आवश्यक हैं</string>
+    <string name="msg_created">कर्मचारी जोड़ा गया</string>
+    <string name="msg_updated">कर्मचारी अपडेट किया गया</string>
+    <string name="msg_deleted">कर्मचारी हटाया गया</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_language">भाषा</string>
+    <string name="language_title">भाषा चुनें</string>
+</resources>
